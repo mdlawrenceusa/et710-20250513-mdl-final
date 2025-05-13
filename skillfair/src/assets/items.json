@@ -1,0 +1,18 @@
+[
+  {
+    "name": "kitchen",
+    "image": "https://content.codecademy.com/projects/make-a-website/lesson-4/kitchen.jpg"
+  },
+  {
+    "name": "woodwork",
+    "image": "https://content.codecademy.com/projects/make-a-website/lesson-4/woodwork.jpg"
+  },
+  {
+    "name": "gifts",
+    "image": "https://content.codecademy.com/projects/make-a-website/lesson-4/gifts.jpg"
+  },
+  {
+    "name": "antiques",
+    "image": "https://content.codecademy.com/projects/make-a-website/lesson-4/antique.jpg"
+  }
+]

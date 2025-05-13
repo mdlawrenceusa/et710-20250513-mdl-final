@@ -101,4 +101,12 @@
   "cli": {
     "analytics": "432f481d-7b0c-490e-ab25-7db835f1ebc2"
   }
+  
+  
+  "assets": [
+  "src/favicon.ico",
+  "src/assets"
+]
+  
+  
 }
